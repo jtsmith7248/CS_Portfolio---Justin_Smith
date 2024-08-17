@@ -6,10 +6,10 @@ Guide to key projects referenced in resume.
 
 
 ## Web Design : [Coaster Cracked! Website](https://jtsmith7248.github.io/CoasterCrackedWebsite/) | [Repository](https://github.com/jtsmith7248/CoasterCrackedWebsite/)
-A few years ago, I created a website called "Coaster Cracked," a basic online forum for coaster enthusiasts. This project helped me solidify my understanding of fundamental web development skills, including structuring web pages with HTML, styling them with CSS, and adding interactivity with JavaScript.
+  A few years ago, I created a website called "Coaster Cracked," a basic online forum for coaster enthusiasts. This project helped me solidify my understanding of fundamental web development skills, including structuring web pages with HTML, styling them with CSS, and adding interactivity with JavaScript.
 
-## Database Design : Record Shop Simulation
-
+## Database Design : [Record Shop Simulation](https://github.com/jtsmith7248/RecordShop)
+  This project from 2021 taught important lessons regarding both database management and in leading a team towards a shared goal, especially through challenging circumstances created by conflicting schedules during the global pandemic. Other key insights from this project included understanding how to model relationships between entities (e.g., customers placing orders, products provided by vendors) in addition to practicing SQL syntax for creating tables, inserting data, and defining constraints to build a robust database.
 
 ## Construct 3 : Monster Mayhem Platformer 
 
