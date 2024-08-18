@@ -13,6 +13,7 @@ Guide to key projects referenced in resume.
 
 ## Construct 3 : [Monster Mayhem Platformer](https://jtsmith7248.github.io/MonsterMayhem_Construct3/) | [Repository](https://github.com/jtsmith7248/MonsterMayhem_Construct3)
   Creating my first multilevel platformer in Construct 3 was an incredibly enriching experience. With over 100 events and 9 event sheets dedicated to managing game logic and layout, I gained a deep understanding of event-based programming and complex game mechanics. I learned how to design and organize said logic to handle multiple levels, player interactions, and dynamic environments efficiently. Overall, this project significantly enhanced my proficiency in game development and problem-solving. Hopefully not too bad for a first game! The second level is much more cohesive than the first. 
+  
   **WARNING** | This game runs better on Chrome than Firefox, at least on my end - future iterations will be more friendly to other browsers!
 
 
