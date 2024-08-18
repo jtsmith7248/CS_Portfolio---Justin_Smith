@@ -21,6 +21,7 @@ Guide to key projects referenced in resume.
 
 ## Unity : [Flapper 2.0](https://github.com/jtsmith7248/Flapper_2.0)
   Built using Unity, this 2D game is a slight twist on 'Flappybird', the hit 2014 game. The project led to many trials with script managing, code integration, and testing, among others- but in the end it turned out to be a well functioning game! 
+  
   Click below to see the direct gameplay!
 
   [![Watch the video](https://img.youtube.com/vi/S5jGmsfnMK0/hqdefault.jpg)](https://www.youtube.com/embed/S5jGmsfnMK0)
