@@ -1,4 +1,4 @@
-# My Portfolio - Justin_Smith
+# My Portfolio - Justin Smith
 Guide to key projects referenced in resume.
 
 ## C++ : [Deck Of Cards Minigames](https://github.com/jtsmith7248/Deck-Of-Cards-Game_ITCS-2550-Final)
