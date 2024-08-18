@@ -19,5 +19,5 @@ Guide to key projects referenced in resume.
   This project from 2021 taught important lessons regarding both database management and in leading a team towards a shared goal, especially through challenging circumstances created by conflicting schedules during the global pandemic. Other key insights from this project included understanding how to model relationships between entities (e.g., customers placing orders, products provided by vendors) in addition to practicing SQL syntax for creating tables, inserting data, and defining constraints to build a robust database.
 
 
-## Unity : Customized FlappyBird for Desktop
+## Unity : FlappyBird Hyperspeed
 
